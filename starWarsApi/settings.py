@@ -25,7 +25,9 @@ SECRET_KEY = 'cenf+h$58x-02&a^9rcfqeiynm1s_dt&-q4l%-ufb*bosy$h&l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'juancsr-star-wars-api.herokuapp.com'
+]
 
 
 # Application definition
